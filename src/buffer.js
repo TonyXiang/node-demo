@@ -6,3 +6,4 @@ console.log(buf.toString('base64'), '\n')
 
 console.dir({ name: '老王', age: 25, sex: '男' })
 console.timeEnd('计时')
+console.log(process.argv)
